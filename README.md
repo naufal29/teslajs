@@ -1,2 +1,2 @@
 # teslajs
-itstesnetbismillahjp
+tea.yaml
